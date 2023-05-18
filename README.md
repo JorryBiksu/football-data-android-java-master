@@ -5,6 +5,4 @@ The app follows the MVVM architectural pattern.
 
 Data comes from https://www.football-data.org/
 
-![League Table](https://lh3.googleusercontent.com/RRxUMLqGLU0WVyK3EeRWEXH_wZ4OQh_HnFlzhgXlAHmN1BqCBQ7WrN-q2HztC6Hu_mQC=w360)
-![Competitions](https://lh3.googleusercontent.com/kyLWQXkAgt2gYzXRIB-SnS6NHzuHy__VXfye-x7bWEdADGPVfaIf4YyCvONZVTqjol0=w360)
 
